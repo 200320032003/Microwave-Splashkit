@@ -7,8 +7,7 @@ The simulator will display:
 - Start and Stop buttons
 - Controls using keyboard keys
 
-By the end, you will understand how to draw shapes, add text, and handle user input with SplashKit in C#, while applying **encapsulation** - a core concept of object-oriented programming.
-
+By the end you will know how to make shapes put in text and handle controls in SplashKit using C# while also using encapsulation which is a main idea in OOP
 ---
 
 ## Understanding Encapsulation
@@ -50,7 +49,7 @@ I made a short video that explains encapsulation with a **microwave metaphor** -
 ## File 1: `Microwave.cs`
 
 This file defines our **Microwave** class.  
-It’s responsible for:
+It is responsible for:
 - Storing the microwave’s **state** (door open/closed, cooking/idle)
 - Providing **methods** to change the state
 - Drawing the microwave graphics on the screen
@@ -186,7 +185,7 @@ public class Program
 ---
 
 ## Wrap-Up
-You’ve now built a **Microwave Simulator** using SplashKit and applied **encapsulation** by keeping all microwave-related data and functions inside the `Microwave` class.
+You have now built a **Microwave Simulator** using SplashKit and applied **encapsulation** by keeping all microwave-related data and functions inside the `Microwave` class.
 
 Possible extensions:
 - Add a countdown timer
